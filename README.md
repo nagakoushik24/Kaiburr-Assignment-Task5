@@ -40,4 +40,5 @@ The project applies the complete **Machine Learning pipeline**:
 ![Data](1.png)
 ![Distribution](2.png) 
 ![Accuracy](3.png) 
-![Predictions](4.png) 
+![Accuracy](4.png) 
+![Predictions](5.png) 
