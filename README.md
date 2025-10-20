@@ -34,4 +34,10 @@ The project applies the complete **Machine Learning pipeline**:
 
 ---
 
-### 📂 Project Structure
+
+## Screenshorts of Output
+
+![Data](1.png)
+![Distribution](2.png) 
+![Accuracy](3.png) 
+![Predictions](4.png) 
